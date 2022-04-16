@@ -1,1 +1,7 @@
-lunes martes miercoles jueves viernes sabado domingo
+lunes
+martes
+miercoles
+jueves
+viernes
+sábado
+domingo
